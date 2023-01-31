@@ -50,3 +50,17 @@ friends.unshift('first');
 // remove first element
 friends.shift();
 console.log(friends);
+
+//--------------<<<<<---18-5------>>>>>-------------
+// 18-5 Compare variables and Comparison operator
+// 18-6 Make conditional decision, if-else, comparison
+// 18-7 Handle multiple conditions, and or
+
+//18-8 Multi stage condition and nested conditions
+
+//18-9 module summary and two more comparisons
+console.log(6!=6);
+
+
+ 
+
