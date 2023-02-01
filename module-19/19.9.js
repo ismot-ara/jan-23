@@ -34,3 +34,6 @@ write a program to find your and your friend's grades using if-else
  *  
  * Isosceles => two sides are equal
  */
+//১২ parseInt, parseFloat, toFixed এইগুলা কি করে? 
+// 19.5: text theke 36 ta problem solve korte hobe
+
